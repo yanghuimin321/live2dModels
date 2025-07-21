@@ -1,0 +1,20 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "CatPaw",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Cattail",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Momo",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

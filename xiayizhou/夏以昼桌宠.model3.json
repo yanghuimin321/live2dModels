@@ -1,0 +1,82 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "夏以昼桌宠.moc3",
+		"Textures": [
+			"夏以昼桌宠.8192/texture_00.png"
+		],
+		"Physics": "夏以昼桌宠.physics3.json",
+		"DisplayInfo": "夏以昼桌宠.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "TailSpeed",
+				"File": "TailSpeed.exp3.json"
+			},
+			{
+				"Name": "BlackFace",
+				"File": "BlackFace.exp3.json"
+			},
+			{
+				"Name": "Paw",
+				"File": "Paw.exp3.json"
+			},
+			{
+				"Name": "EatApple",
+				"File": "EatApple.exp3.json"
+			},
+			{
+				"Name": "Cook",
+				"File": "Cook.exp3.json"
+			},
+			{
+				"Name": "JIujiu",
+				"File": "JIujiu.exp3.json"
+			},
+			{
+				"Name": "Bone",
+				"File": "Bone.exp3.json"
+			},
+			{
+				"Name": "Pillow",
+				"File": "Pillow.exp3.json"
+			},
+			{
+				"Name": "Momo",
+				"File": "Momo.exp3.json"
+			},
+			{
+				"Name": "Shy",
+				"File": "Shy.exp3.json"
+			},
+			{
+				"Name": "NoGoing",
+				"File": "NoGoing.exp3.json"
+			},
+			{
+				"Name": "Cry",
+				"File": "Cry.exp3.json"
+			},
+			{
+				"Name": "Star",
+				"File": "Star.exp3.json"
+			},
+			{
+				"Name": "AppleHat",
+				"File": "AppleHat.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,20 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Shy",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "NMouth",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Flower1",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

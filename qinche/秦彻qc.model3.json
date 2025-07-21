@@ -1,0 +1,88 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "秦彻QC.moc3",
+		"Textures": [
+			"秦彻QC.8192/texture_00.png",
+			"秦彻QC.8192/texture_01.png",
+			"秦彻QC.8192/texture_02.png"
+		],
+		"Physics": "秦彻QC.physics3.json",
+		"DisplayInfo": "秦彻QC.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "脸红",
+				"File": "Shy.exp3.json"
+			},
+			{
+				"Name": "猫猫",
+				"File": "Cat.exp3.json"
+			},
+			{
+				"Name": "猫猫脸红",
+				"File": "CatShy.exp3.json"
+			},
+			{
+				"Name": "猫猫洗脸",
+				"File": "CatClean.exp3.json"
+			},
+			{
+				"Name": "猫猫头套",
+				"File": "CatHat.exp3.json"
+			},
+			{
+				"Name": "猫猫啾啾",
+				"File": "CatJiuJiu.exp3.json"
+			},
+			{
+				"Name": "蛋糕",
+				"File": "Cake.exp3.json"
+			},
+			{
+				"Name": "麦克风",
+				"File": "Mic.exp3.json"
+			},
+			{
+				"Name": "麦克风2",
+				"File": "Mic2.exp3.json"
+			},
+			{
+				"Name": "钻戒",
+				"File": "Diamond.exp3.json"
+			},
+			{
+				"Name": "钻戒2",
+				"File": "Diamond2.exp3.json"
+			},
+			{
+				"Name": "送玫瑰1",
+				"File": "Flower.exp3.json"
+			},
+			{
+				"Name": "送玫瑰2",
+				"File": "Flower2.exp3.json"
+			},
+			{
+				"Name": "送玫瑰3",
+				"File": "Flower3.exp3.json"
+			},
+			{
+				"Name": "麦克风3",
+				"File": "Mic3.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

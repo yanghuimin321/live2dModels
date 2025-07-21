@@ -1,0 +1,15 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Paint",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "RedHat",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Jiujiu",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Angry",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "CatPaw",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "WuLian",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paint2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Shock",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Flower1",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Cake",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Momo",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Han",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Kun",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Happy",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "StarEyes",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Shy",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Cry",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Cattail",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "CatEar",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Hat",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "RedHat",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "NMouth",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Fish",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paint",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Flower2",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

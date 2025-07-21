@@ -1,0 +1,15 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "AppleHat",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Pillow",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

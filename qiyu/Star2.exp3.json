@@ -1,0 +1,20 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "StarEyes",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "NMouth",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "WuLian",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

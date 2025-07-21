@@ -1,0 +1,134 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "小鱼桌宠.moc3",
+		"Textures": [
+			"小鱼桌宠.8192/texture_00.png"
+		],
+		"Physics": "小鱼桌宠.physics3.json",
+		"DisplayInfo": "小鱼桌宠.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Angry",
+				"File": "Angry.exp3.json"
+			},
+			{
+				"Name": "recover",
+				"File": "recover.exp3.json"
+			},
+			{
+				"Name": "Cat",
+				"File": "Cat.exp3.json"
+			},
+			{
+				"Name": "Flower",
+				"File": "Flower.exp3.json"
+			},
+			{
+				"Name": "Cake",
+				"File": "Cake.exp3.json"
+			},
+			{
+				"Name": "expression1",
+				"File": "Cake+JIujiu.exp3.json"
+			},
+			{
+				"Name": "Paint",
+				"File": "Paint.exp3.json"
+			},
+			{
+				"Name": "Momo",
+				"File": "Momo.exp3.json"
+			},
+			{
+				"Name": "Momo+Cat",
+				"File": "Momo+Cat.exp3.json"
+			},
+			{
+				"Name": "Han1",
+				"File": "Han1.exp3.json"
+			},
+			{
+				"Name": "Han2",
+				"File": "Han2.exp3.json"
+			},
+			{
+				"Name": "Kun1",
+				"File": "Kun1.exp3.json"
+			},
+			{
+				"Name": "Kun2",
+				"File": "Kun2.exp3.json"
+			},
+			{
+				"Name": "Shock1",
+				"File": "Shock1.exp3.json"
+			},
+			{
+				"Name": "Shock2",
+				"File": "Shock2.exp3.json"
+			},
+			{
+				"Name": "Happy1",
+				"File": "Happy1.exp3.json"
+			},
+			{
+				"Name": "Happy2",
+				"File": "Happy2.exp3.json"
+			},
+			{
+				"Name": "Star1",
+				"File": "Star1.exp3.json"
+			},
+			{
+				"Name": "Star2",
+				"File": "Star2.exp3.json"
+			},
+			{
+				"Name": "Shy1",
+				"File": "Shy1.exp3.json"
+			},
+			{
+				"Name": "Shy2",
+				"File": "Shy2.exp3.json"
+			},
+			{
+				"Name": "Shy3",
+				"File": "Shy3.exp3.json"
+			},
+			{
+				"Name": "Cry1",
+				"File": "Cry1.exp3.json"
+			},
+			{
+				"Name": "Cry2",
+				"File": "Cry2.exp3.json"
+			},
+			{
+				"Name": "Hat",
+				"File": "Hat.exp3.json"
+			},
+			{
+				"Name": "Fish",
+				"File": "Fish.exp3.json"
+			},
+			{
+				"Name": "Fish+JiuJiu",
+				"File": "Fish+JiuJiu.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

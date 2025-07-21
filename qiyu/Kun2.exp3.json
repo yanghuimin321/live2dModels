@@ -1,0 +1,35 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Kun",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "NMouth",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"Value": 8.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "WuLian",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}
